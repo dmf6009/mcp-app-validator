@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://mcpapps.guagua-alvin.top/sitemap.xml

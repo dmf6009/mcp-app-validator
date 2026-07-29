@@ -1,0 +1,7 @@
+name = "mcp-app-validator-domain"
+main = "worker-proxy.js"
+compatibility_date = "2026-07-29"
+
+[[routes]]
+pattern = "mcpapps.guagua-alvin.top"
+custom_domain = true

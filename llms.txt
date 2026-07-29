@@ -1,0 +1,17 @@
+# MCP App Ready
+
+> Independent browser validator for MCP Apps tool metadata, UI resources, HTML content and sandbox policy.
+
+Canonical: https://mcpapps.guagua-alvin.top/
+Parent directory: https://guagua-alvin.top/
+Target specification: MCP Apps stable 2026-01-26
+
+## Pages
+
+- [MCP Apps Validator](https://mcpapps.guagua-alvin.top/)
+- [Validator Guide](https://mcpapps.guagua-alvin.top/mcp-apps-validator)
+- [MCP App CSP Checker](https://mcpapps.guagua-alvin.top/mcp-app-csp)
+- [Resource Errors](https://mcpapps.guagua-alvin.top/mcp-app-resource-errors)
+- [JSON Example](https://mcpapps.guagua-alvin.top/mcp-app-json-example)
+
+Validation runs locally. This is not an official MCP project or conformance certificate.
