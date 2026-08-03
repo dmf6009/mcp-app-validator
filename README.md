@@ -8,3 +8,7 @@ Free static browser validator for MCP Apps tool metadata, `ui://` resources, HTM
 - AdSense, trust pages and technical SEO included
 
 Production: https://mcpapps.guagua-alvin.top/
+
+Walkthrough: [Fix an MCP App that opens as a blank UI panel](https://guagua-alvin.top/guides/fix-mcp-app-blank-ui)
+
+More MCP tools: <https://guagua-alvin.top/mcp-tools>
